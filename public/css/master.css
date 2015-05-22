@@ -145,12 +145,13 @@ section.project {
 }
 
 section.project a {
-    color: #383B3E;
+    color: #3399ff;
+    font-weight: 600;
     text-decoration: none;
 }
 
 section.project a:hover {
-    color: #6faa55;
+    color: #1D86F0;
 }
 
 section.project:last-child {
